@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## PRODUCTPEEL SDK Documentation
+
+The PRODUCTPEEL SDK lets you add interactive user generated experiences, recommendations, and reviews to your mobile apps. 
+
+It uses React, letting you compose a rich mobile UI for capturing and displaying interactive user generated experiences and recommendations.
 
 You can use the [editor on GitHub](https://github.com/productpeel/SDK/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
