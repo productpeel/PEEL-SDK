@@ -1,41 +1,27 @@
-## PRODUCTPEEL SDK Documentation
+### Welcome to PRODUCTPEEL's official Mobile SDK
 
-The PRODUCTPEEL SDK lets you add interactive user generated experiences, recommendations, and reviews to your mobile apps. 
+The PEEL SDK lets you add interactive user generated experiences, recommendations, and reviews to your mobile apps. 
 
-It uses React, letting you compose a rich mobile UI for capturing and displaying interactive user generated experiences and recommendations.
+It uses JavaScript and React, and can be easily integrated to native apps so you can compose a rich mobile UI for capturing and displaying interactive user generated experiences, recommendations and reviews.
 
-You can use the [editor on GitHub](https://github.com/productpeel/SDK/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Communication with PRODUCTPEEL
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On Android and iPhone, all communication between apps and PRODUCTPEEL go through the official PRODUCTPEEL API.
 
-### Markdown
+This paragraph should describe the high level libraries and requirements for communication between PRODUCTPEEL, Android, and iPhone Apps. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Capturing User Generated Content - Video/Image/Text
 
-```markdown
-Syntax highlighted code block
+Here we will describe what's available and how you would 
 
-# Header 1
-## Header 2
-### Header 3
+### Displaying User Generated Content 
 
-- Bulleted
-- List
+Here we will describe the options available for displaying and taging user generated content. 
 
-1. Numbered
-2. List
+### Commenting and Notifications
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/productpeel/SDK/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Here we will describe how we handle comments and notifications. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have questions? [contact support](https://productpeel.com/contact) and we’ll help you sort it out.
