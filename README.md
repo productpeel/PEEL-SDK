@@ -12,15 +12,19 @@ This paragraph should describe the high level libraries and requirements for com
 
 ### Capturing User Generated Content - Video/Image/Text
 
-Here we will describe what's available and how you would 
+Here we will describe what's available and provide an example of implementation. 
+
+Also, we need to lay out what is customizable. 
 
 ### Displaying User Generated Content 
 
 Here we will describe the options available for displaying and taging user generated content. 
 
+Also, we need to lay out what is customizable. 
+
 ### Commenting and Notifications
 
-Here we will describe how we handle comments and notifications. 
+Here we will describe how we handle comments and notifications. Also, we need to lay out what is customizable. 
 
 ### Support or Contact
 
