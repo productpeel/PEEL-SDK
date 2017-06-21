@@ -6,7 +6,7 @@ It uses JavaScript and React, and can be easily integrated to native apps as a r
 
 ### Communication with PRODUCTPEEL
 
-On Android and iPhone, all communication between your apps and PRODUCTPEEL will be made through our Android and IOS libraries.
+On Android and iOS, all communication between your apps and PRODUCTPEEL will be made through our libraries. We have one for Android and another library for iOS. 
 
 This paragraph should describe the high level libraries and requirements for communication between PRODUCTPEEL, Android, and iPhone Apps. 
 
