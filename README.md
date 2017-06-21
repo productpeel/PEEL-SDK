@@ -2,15 +2,17 @@
 
 PRODUCTPEEL makes the PEEL SDK available to brands and retailers upon request. Our team will help with integration and any customization needs that apply. 
 
-It uses JavaScript and React, and can be easily integrated to native apps as a rich mobile UI for capturing and displaying interactive user generated videos, images, recommendations, and reviews. This introductory documentation provides a high level overview of the SKD and shows examples. 
+It uses JavaScript and React, and can be easily integrated to native apps as a rich mobile UI for capturing and displaying interactive user generated videos, images, recommendations, and reviews. This introductory documentation provides a high level overview of the SDK and shows examples. You can contact us at info@productpeel.com to get access to the SDK. 
 
 ### Communication with PRODUCTPEEL
 
-On Android and iPhone, all communication between apps and PRODUCTPEEL go through the official PRODUCTPEEL API.
+On Android and iPhone, all communication between your apps and PRODUCTPEEL will be made through our Android and IOS libraries.
 
 This paragraph should describe the high level libraries and requirements for communication between PRODUCTPEEL, Android, and iPhone Apps. 
 
-### Capturing User Generated Content - Video/Image/Text
+Our libraries are broken into three main areas of focus:
+
+### Capturing User Generated Video/Image/Text
 
 Here we will describe what's available and provide an example of implementation. 
 
