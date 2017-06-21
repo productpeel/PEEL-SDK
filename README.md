@@ -1,8 +1,8 @@
-### Welcome to PRODUCTPEEL's official Mobile SDK
+### Welcome to the PEEL SDK
 
-The PEEL SDK lets you add interactive user generated experiences, recommendations, and reviews to your mobile apps. 
+PRODUCTPEEL makes the PEEL SDK available to brands and retailers upon request. Our team will help with integration and any customization needs that apply. 
 
-It uses JavaScript and React, and can be easily integrated to native apps so you can compose a rich mobile UI for capturing and displaying interactive user generated experiences, recommendations and reviews.
+It uses JavaScript and React, and can be easily integrated to native apps as a rich mobile UI for capturing and displaying interactive user generated videos, images, recommendations, and reviews. This introductory documentation provides a high level overview of the SKD and shows examples. 
 
 ### Communication with PRODUCTPEEL
 
