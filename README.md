@@ -29,7 +29,7 @@ Allow users to capture, edit and personalize video, images, and text. You can co
 - Share posts publicly, to private networks, or to social media channels, email, text, etc...
 
 See below for an example of our SDK implementation on iOS. 
-![[https://github.com/productpeel/PEEL-SDK/blob/master/Screen%20Shot%202017-06-27%20at%202.25.04%20PM.png](src)!
+<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline"/>
 
 
 ### Displaying User Generated Content 
