@@ -18,14 +18,15 @@ Our libraries are broken into three main areas of focus:
 
 Allow users to capture, edit and personalize video, images, and text. You can configure the capture workflow and form as desired.  The customizable elements include:
 
+- Camera view and flash settings
 - Single or multiple video/image capture allows a user to post more than one image or video at a time
 - Set video thumbnail
-- Edit video (videos should be no more than 15 seconds)
-- Adding text or stickers to images
-- Required or optional fields with customizable prompts. Customize field prompts at a product level. For ex: Recomend or Not recommend, 5 Star Ratings, Tell your Story, etc... 
-- Product association. Pre-tag products or allow the user to tag the product they are posting about. 
+- Edit video (15 second videos)
+- Add text or stickers to images
+- Required/optional fields with text limitations and customizable prompts. Customize field prompts at a product level. For ex: Recomend or Not recommend, 5 Star Ratings, Tell your Story, etc... 
+- Product association. Pre-tag products or allow the user to tag the product(s) they post about. 
 - Hashtag support
-- Sharing allows users to share posts publicly, to private networks, or to social media channels, email, text, etc...
+- Share posts publicly, to private networks, or to social media channels, email, text, etc...
 
 See below for an example of our SDK implementation on iOS. 
 
