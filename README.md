@@ -42,15 +42,21 @@ Product tags, hashtags, descriptions, recommendations, ratings, comments, action
 
 As sufficient content is collected, we can help you implement machine learning to constantly optimize what content is displayed to each user. 
 
-See below for an example display method on iOS and Android.
+See below for an example display method on iOS.
 
-<img src="image1 (3).png" alt="hi" class="inline" height="440" width="280"/> <br>
+<img src="image1 (3).png" alt="hi" class="inline" height="440" width="280"/> 
 
-<img src="image2.png" alt="hi" class="inline" height="440" width="280"/>
+### Actions - likes, comments, shares and Notifications
 
-### Commenting, actions and Notifications
+Each user generated content can generate engagement and interaction among users. Actions allow users to like, comment, or share any piece of content. And, you will have the option to enable or disable commenting at a product level. 
 
-Here we will describe how we handle comments and notifications. Also, we need to lay out what is customizable. 
+Image and video-based comments are supported. In addition, our back-end admin panel allows you to moderate comments to keep your community safe. 
+
+Lastly, you can also choose to add user-based flagging for innapproprite content, if needed. 
+
+See below for an example comment form on Android.
+
+<img src="Screenshot_20170627-140005.png" alt="hi" class="inline" height="440" width="280"/> 
 
 ### Support or Contact
 
