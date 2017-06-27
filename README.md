@@ -38,7 +38,7 @@ As content is posted, you can specify how you want it displayed in your app and 
 
 Our system allows you to display videos, images, or text in landscape, portrait, and other custom sizes in a horizontal carousel, a vertical feed, or as a hybrid mix.  We maximize  performance by automatically optimizing image and video sizes.   
 
-Product tags, hashtags, descriptions, recommendations, ratings, comments, actions time, and user information; allow you to easily personalize content for each of your users. You can even create your own customized algorithm. 
+Product tags, hashtags, descriptions, recommendations, ratings, comments, actions, views, time, and user information; allow you to easily personalize content for each of your users. You can even create your own customized algorithm. 
 
 As sufficient content is collected, we can help you implement machine learning to constantly optimize what content is displayed to each user. 
 
@@ -48,11 +48,9 @@ See below for an example display method on iOS.
 
 ### Actions - likes, comments, shares and Notifications
 
-Each user generated content can generate engagement and interaction among users. Actions allow users to like, comment, or share any piece of content. And, you will have the option to enable or disable commenting at a product level. 
+Each user generated content can generate engagement and interaction among users. Actions allow users to like, comment, or share any piece of content. 
 
-Image and video-based comments are supported. In addition, our back-end admin panel allows you to moderate comments to keep your community safe. 
-
-Lastly, you can also choose to add user-based flagging for innapproprite content, if needed. 
+Image and video-based comments are supported. But, you will have the option to enable or disable commenting at a product level. In addition, our back-end admin panel allows you to moderate comments to keep your community safe. You can also choose to add user-based flagging for innapproprite content, if needed. 
 
 See below for an example comment form on Android.
 
