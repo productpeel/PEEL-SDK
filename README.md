@@ -44,8 +44,8 @@ As sufficient content is collected, we can help you implement machine learning t
 
 See below for an example display method on iOS and Android.
 
-<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="420" width="280"/>
-<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="420" width="280"/>
+<img src="image1 (3).png" alt="hi" class="inline" height="420" width="280"/>
+<img src="image2.png" alt="hi" class="inline" height="420" width="280"/>
 
 ### Commenting, actions and Notifications
 
