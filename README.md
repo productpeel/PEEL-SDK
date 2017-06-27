@@ -52,6 +52,8 @@ Each piece of user generated content can increase engagement and interaction amo
 
 Threaded comments and Image/video-based comments are supported. For moderation purposes, you will have the option to enable or disable commenting at a product level. In addition, our back-end admin panel allows you to moderate comments at an individual level. You can also choose to add user-based flagging for innapproprite content, if needed. 
 
+Each of these actions, and others can be incorporated into your notification system, or added incrementally to your app. 
+
 See below for an example comment form on Android.
 
 <img src="Screenshot_20170627-140005.png" alt="hi" class="inline" height="440" width="280"/> 
