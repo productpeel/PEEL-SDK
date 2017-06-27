@@ -26,19 +26,28 @@ Allow users to capture, edit and personalize video, images, and text. You can co
 - Required/optional fields with text limitations and customizable prompts. Customize field prompts at a product level. For ex: Recomend or Not recommend, 5 Star Ratings, Tell your Story, etc... 
 - Product association. Pre-tag products or allow the user to tag the product(s) they post about. 
 - Hashtag support
-- Share posts publicly, to private networks, or to social media channels, email, text, etc...
+- Share posts publicly, to private networks, or to social media channels (Facebook, PRODUCTPEEL, Twitter, email, text, etc.)
 
-See below for an example of our SDK implementation on iOS. 
+See below for an example capture form on iOS. 
 
 <img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="420" width="280"/>
 
 ### Displaying User Generated Content 
 
-Here we will describe the options available for displaying and taging user generated content. 
+As content is posted, you can specify how you want it displayed in your app and to whom you want it displayed. 
 
-Also, we need to lay out what is customizable. 
+Our system allows you to display videos, images, or text in landscape, portrait, and other custom sizes in a horizontal carousel, a vertical feed, or as a hybrid mix.  We maximize  performance by automatically optimizing image and video sizes.   
 
-### Commenting and Notifications
+Product tags, hashtags, descriptions, recommendations, ratings, comments, actions time, and user information; allow you to easily personalize content for each of your users. You can even create your own customized algorithm. 
+
+As sufficient content is collected, we can help you implement machine learning to constantly optimize what content is displayed to each user. 
+
+See below for an example display method on iOS and Android.
+
+<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="420" width="280"/>
+<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="420" width="280"/>
+
+### Commenting, actions and Notifications
 
 Here we will describe how we handle comments and notifications. Also, we need to lay out what is customizable. 
 
