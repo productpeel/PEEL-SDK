@@ -16,18 +16,20 @@ Our libraries are broken into three main areas of focus:
 
 ### Capturing User Generated Video/Image/Text
 
-Allow your users to capture, edit and personalize video, images, and text. You can configure the capture workflow and form as desired.  The customizable elements include:
+Allow users to capture, edit and personalize video, images, and text. You can configure the capture workflow and form as desired.  The customizable elements include:
 
-- Single video/image capture or multiple video/image capture, allowing a user to post more than one image or video
-- Setting video thumbnail
-- Editing video (videos should be no more than 15 seconds)
+- Single or multiple video/image capture allows a user to post more than one image or video at a time
+- Set video thumbnail
+- Edit video (videos should be no more than 15 seconds)
 - Adding text or stickers to images
-- Required or optional fields with customizable prompts. You can customize field prompts at a product level. For ex: Recomend or Not recommend, 5 Star Ratings, Tell your Story, etc... 
-- Product association. You can pre-tag products or allow the user to tag the product/service/topic they are posting about. 
+- Required or optional fields with customizable prompts. Customize field prompts at a product level. For ex: Recomend or Not recommend, 5 Star Ratings, Tell your Story, etc... 
+- Product association. Pre-tag products or allow the user to tag the product they are posting about. 
 - Hashtag support
-- Sharing. You can allow your users to share their posts outside your app to other social media channels, email, text, etc...
+- Sharing allows users to share posts publicly, to private networks, or to social media channels, email, text, etc...
 
 See below for an example of our SDK implementation on iOS. 
+
+
 
 ### Displaying User Generated Content 
 
