@@ -2,7 +2,7 @@
 
 PRODUCTPEEL makes the PEEL SDK available to brands and retailers upon request. Our team can help with integration and customization needs that apply. 
 
-It uses JavaScript and React, and can be easily integrated to native mobile apps to enhance your current review system, or as a complete mobile UI for social recommendations/reviews/feedback. You will be able to capture and display interactive user generated videos, images, text in the form of personal recommendations/reviews/feedback. 
+It uses JavaScript and React, and can be easily integrated to native mobile apps to enhance your current review system, or as a complete mobile UI for user recommendations and social reviews. You will be able to capture and display interactive user generated videos, images, text in the form of personal recommendations/reviews/feedback. 
 
 This introductory documentation provides a high level overview of the SDK and shows examples. You can contact us at info@productpeel.com to get access to the SDK. 
 
