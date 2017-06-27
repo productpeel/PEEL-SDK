@@ -29,7 +29,8 @@ Allow users to capture, edit and personalize video, images, and text. You can co
 - Share posts publicly, to private networks, or to social media channels, email, text, etc...
 
 See below for an example of our SDK implementation on iOS. 
-<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline"/>
+
+<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="480" width="240"/>
 
 
 ### Displaying User Generated Content 
