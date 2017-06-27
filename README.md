@@ -48,7 +48,7 @@ See below for an example display method on iOS.
 
 ### Actions - likes, comments, shares and Notifications
 
-Each user generated content can generate engagement and interaction among users. Actions allow users to like, comment, or share any piece of content. 
+Each piece of user generated content can increase engagement and interaction among users. Actions allow users to like, comment, or share any piece of content. 
 
 Threaded comments and Image/video-based comments are supported. For moderation purposes, you will have the option to enable or disable commenting at a product level. In addition, our back-end admin panel allows you to moderate comments at an individual level. You can also choose to add user-based flagging for innapproprite content, if needed. 
 
