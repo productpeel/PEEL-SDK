@@ -30,7 +30,7 @@ Allow users to capture, edit and personalize video, images, and text. You can co
 
 See below for an example of our SDK implementation on iOS. 
 
-<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="400" width="280"/>
+<img src="Screen Shot 2017-06-27 at 2.25.04 PM.png" alt="hi" class="inline" height="420" width="280"/>
 
 ### Displaying User Generated Content 
 
